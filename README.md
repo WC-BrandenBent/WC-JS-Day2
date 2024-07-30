@@ -1,4 +1,4 @@
-# WC-JS-Day2
+### WC-JS-Day2
 
 Required Extensions, Applications, Etc
 
@@ -10,9 +10,15 @@ What is a promise?
 Define what a synchronous language is
 
 What is await used for?
-EXAMPLE CHANGE
+
+
+**EXAMPLE CHANGE**
 
 -------------------------------
+
+```
+ example code goes here
+```
 
 Github/Version Control Terminology:
 Keywords:
